@@ -1,0 +1,55 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/yons/finsiot/node_modules/react-native-webview-tencentx5/android/src/main/AndroidManifest.xml:2:1-15:12
+INJECTED from /Users/yons/finsiot/node_modules/react-native-webview-tencentx5/android/src/main/AndroidManifest.xml:2:1-15:12
+INJECTED from /Users/yons/finsiot/node_modules/react-native-webview-tencentx5/android/src/main/AndroidManifest.xml:2:1-15:12
+INJECTED from /Users/yons/finsiot/node_modules/react-native-webview-tencentx5/android/src/main/AndroidManifest.xml:2:1-15:12
+INJECTED from /Users/yons/finsiot/node_modules/react-native-webview-tencentx5/android/src/main/AndroidManifest.xml:2:1-15:12
+INJECTED from /Users/yons/finsiot/node_modules/react-native-webview-tencentx5/android/src/main/AndroidManifest.xml:2:1-15:12
+INJECTED from /Users/yons/finsiot/node_modules/react-native-webview-tencentx5/android/src/main/AndroidManifest.xml:2:1-15:12
+	package
+		ADDED from /Users/yons/finsiot/node_modules/react-native-webview-tencentx5/android/src/main/AndroidManifest.xml:3:11-39
+		INJECTED from /Users/yons/finsiot/node_modules/react-native-webview-tencentx5/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/yons/finsiot/node_modules/react-native-webview-tencentx5/android/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/yons/finsiot/node_modules/react-native-webview-tencentx5/android/src/main/AndroidManifest.xml
+		ADDED from /Users/yons/finsiot/node_modules/react-native-webview-tencentx5/android/src/main/AndroidManifest.xml:2:1-15:12
+		INJECTED from /Users/yons/finsiot/node_modules/react-native-webview-tencentx5/android/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/yons/finsiot/node_modules/react-native-webview-tencentx5/android/src/main/AndroidManifest.xml
+		ADDED from /Users/yons/finsiot/node_modules/react-native-webview-tencentx5/android/src/main/AndroidManifest.xml:2:1-15:12
+		INJECTED from /Users/yons/finsiot/node_modules/react-native-webview-tencentx5/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/yons/finsiot/node_modules/react-native-webview-tencentx5/android/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/yons/finsiot/node_modules/react-native-webview-tencentx5/android/src/main/AndroidManifest.xml:4:5-14:19
+provider#indi.fan.webviewx5.RNX5WebViewFileProvider
+ADDED from /Users/yons/finsiot/node_modules/react-native-webview-tencentx5/android/src/main/AndroidManifest.xml:5:9-13:20
+	android:grantUriPermissions
+		ADDED from /Users/yons/finsiot/node_modules/react-native-webview-tencentx5/android/src/main/AndroidManifest.xml:9:9-43
+	android:authorities
+		ADDED from /Users/yons/finsiot/node_modules/react-native-webview-tencentx5/android/src/main/AndroidManifest.xml:7:9-60
+	android:exported
+		ADDED from /Users/yons/finsiot/node_modules/react-native-webview-tencentx5/android/src/main/AndroidManifest.xml:8:9-33
+	android:name
+		ADDED from /Users/yons/finsiot/node_modules/react-native-webview-tencentx5/android/src/main/AndroidManifest.xml:6:9-48
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /Users/yons/finsiot/node_modules/react-native-webview-tencentx5/android/src/main/AndroidManifest.xml:10:9-12:59
+	android:resource
+		ADDED from /Users/yons/finsiot/node_modules/react-native-webview-tencentx5/android/src/main/AndroidManifest.xml:12:13-56
+	android:name
+		ADDED from /Users/yons/finsiot/node_modules/react-native-webview-tencentx5/android/src/main/AndroidManifest.xml:11:13-63
+uses-sdk
+INJECTED from /Users/yons/finsiot/node_modules/react-native-webview-tencentx5/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/yons/finsiot/node_modules/react-native-webview-tencentx5/android/src/main/AndroidManifest.xml
+INJECTED from /Users/yons/finsiot/node_modules/react-native-webview-tencentx5/android/src/main/AndroidManifest.xml
+INJECTED from /Users/yons/finsiot/node_modules/react-native-webview-tencentx5/android/src/main/AndroidManifest.xml
+INJECTED from /Users/yons/finsiot/node_modules/react-native-webview-tencentx5/android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/yons/finsiot/node_modules/react-native-webview-tencentx5/android/src/main/AndroidManifest.xml
+		ADDED from /Users/yons/finsiot/node_modules/react-native-webview-tencentx5/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/yons/finsiot/node_modules/react-native-webview-tencentx5/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/yons/finsiot/node_modules/react-native-webview-tencentx5/android/src/main/AndroidManifest.xml
+		ADDED from /Users/yons/finsiot/node_modules/react-native-webview-tencentx5/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/yons/finsiot/node_modules/react-native-webview-tencentx5/android/src/main/AndroidManifest.xml

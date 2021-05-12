@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "applicationId": "indi.fan.webviewx5",
+  "variantType": "LIBRARY",
+  "elements": [
+    {
+      "outputType": {
+        "type": "MERGED_MANIFESTS"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": 1,
+        "versionName": "1.0",
+        "outputFile": "react-native-webview-tencentx5-release.aar",
+        "fullName": "release",
+        "baseName": "release",
+        "dirName": ""
+      },
+      "path": "../../library_manifest/release/AndroidManifest.xml",
+      "properties": {
+        "packageId": "indi.fan.webviewx5",
+        "split": ""
+      }
+    }
+  ]
+}
