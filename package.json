@@ -1,10 +1,10 @@
 {
-  "name": "react-native-webview-tencentx5",
+  "name": "react-native-webview-tencentx5-fix",
   "description": "React Native WebView component for Android, Use Tencent TBSX5",
   "main": "index.js",
   "typings": "index.d.ts",
   "author": "raindrop-c <353144270@qq.com>",
-  "homepage": "https://github.com/RainDrop-C/react-native-webview-tencentx5#readme",
+  "homepage": "https://github.com/DeepRolling/react-native-webview-tencentx5-fix.git#readme",
   "license": "MIT",
   "version": "1.0.4",
   "scripts": {
@@ -66,7 +66,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/RainDrop-C/react-native-webview-tencentx5.git"
+    "url": "https://github.com/DeepRolling/react-native-webview-tencentx5-fix.git"
   },
   "files": [
     "android",

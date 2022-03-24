@@ -1,5 +1,12 @@
 
-# react-native-webview-tencentx5
+# react-native-webview-tencentx5-fix
+
+This project is copy from raindrop-c's library -> [react-native-webview-tencentx5(v1.0.2)](https://github.com/RainDrop-C/react-native-webview-tencentx5#readme)
+with some bug-fix!!!
+
+Only for personal usage!!!
+Thanks to Raindrop-c.
+
 将安卓中webview浏览器内核替换为[腾讯X5内核](https://x5.tencent.com/docs/index.html)并保留[react-native-webview](https://github.com/react-native-webview/react-native-webview)中各种[API](https://github.com/react-native-webview/react-native-webview/blob/master/docs/Reference.md)
 可以优化Android版本低而使浏览器内核webveiw不正常显示，同时使用腾讯X5方便扩展。<br/>
 总之，等于使用腾讯浏览器打开webview页面。<br/>
