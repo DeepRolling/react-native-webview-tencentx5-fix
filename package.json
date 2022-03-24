@@ -6,7 +6,7 @@
   "author": "raindrop-c <353144270@qq.com>",
   "homepage": "https://github.com/RainDrop-C/react-native-webview-tencentx5#readme",
   "license": "MIT",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "scripts": {
     "start": "node node_modules/react-native/local-cli/cli.js start",
     "start:android": "react-native run-android",
